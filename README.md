@@ -26,4 +26,4 @@ I’m Aditya Rao, a front-end developer. My personal corner on the internet is h
 - [Twitter](https://twitter.com/thisisadityarao) 
 - [LinkedIn](https://www.linkedin.com/in/thisisadityarao/) 
 - [My personal website](https://adityarao.netlify.app/)
-- <a href="dev.adityarao@gmail.com">Email</a>
+- <a href="mailto:dev.adityarao@gmail.com">Email</a>
