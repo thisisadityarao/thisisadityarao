@@ -1,10 +1,9 @@
 ### 👋 Hi there
 
-I’m Aditya Rao, a front-end developer. My personal corner on the internet is here: [adityarao.netlify.app](https://adityarao.netlify.app/)
+I’m Aditya Rao, a freelance web developer. My personal corner on the internet is here: [adityarao.netlify.app](https://adityarao.netlify.app/)
 
 *   🔭 I’m currently working on my personal website and small personal projects.
-*   🌱 I’m currently learning Typescript
-*   🤔 I’m looking for help with personal branding, logo/website design.
+*   🌱 I’m currently learning Golang
 
 ### 🖥 Tech Skills
 
