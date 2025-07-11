@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I’m Aditya Rao, a freelance web developer and consultant. My personal corner on the internet is here: [adityarao.netlify.app](https://adityarao.netlify.app/)
+I’m Aditya Rao, a web developer and consultant. My personal corner on the internet is here: [adityarao.netlify.app](https://adityarao.netlify.app/)
 
 *   🔭 I’m open for collaboration or mentorship.
 *   🌱 I’m currently learning Golang
