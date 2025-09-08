@@ -2,8 +2,8 @@
 
 I’m Aditya Rao, a web developer. My personal corner on the internet is here: [adityarao.netlify.app](https://adityarao.netlify.app/)
 
-*   I’m open for collaboration or mentorship on Javascript and related technologies.
-*   I’m currently learning Golang, Agentic coding, creating [MCP server](https://modelcontextprotocol.io/), and other AI/ML related tech.
+*   I’m open for collaboration or mentorship on [Javascript](http://262.ecma-international.org/16.0/index.html) and related technologies.
+*   I’m currently learning [Golang](https://go.dev/), Agentic coding, creating [MCP server](https://modelcontextprotocol.io/), and other AI/ML related tech.
 
 ### 🖥 Tech Skills
 
